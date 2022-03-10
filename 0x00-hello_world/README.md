@@ -8,4 +8,10 @@ The C file name will be saved in the variable $CFILE
 The output file should be named the same as the C file, but with the extension .s instead of .c.
 3. File 3-name is a  script that compiles a C file and creates an executable named cisfun.
 4. File 4-puts is a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
-5. File 5-
+5. File 5-printf.c is a c program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+Use the function printf
+You are not allowed to use the function puts
+Your program should return 0
+Your program should compile without warning when using the -Wall gcc option.
+6. File 6-
+
