@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - main code
+ * main - main block
  * it executes the program, and prints n
  * Returns: Always 0 (Success)
  */
