@@ -13,7 +13,7 @@ Returns 0 otherwise.
 Prototype: int print_sign(int n);
 Returns 1 and prints + if n is greater than zero
 Returns 0 and prints 0 if n is zero
-Returns -1 and prints - if n is less than zero
+Returns -1 and p_table.cIints - if n is less than zero
 6. file 6-abs.c is a  function that computes the absolute value of an integer.
 Prototype: int _abs(int); 
 7. file 7-print_last_digit.c is a function that prints the last digit of a number.
@@ -22,4 +22,6 @@ Returns the value of the last digit
 8. file 8-24_hours.c is a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 Prototype: void jack_bauer(void);
 You can listen to this soundtrack while coding :).
-9. file 
+9. file 9-times_table.c is a function that prints the 9 times table, starting with 0.
+Prototype: void times_table(void);
+10. file 
