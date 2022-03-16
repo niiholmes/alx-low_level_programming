@@ -24,4 +24,6 @@ Prototype: void jack_bauer(void);
 You can listen to this soundtrack while coding :).
 9. file 9-times_table.c is a function that prints the 9 times table, starting with 0.
 Prototype: void times_table(void);
-10. file 
+10. file 10-add.c is a function that adds two integers and returns the result.
+Prototype: int add(int, int); 
+11. file 
