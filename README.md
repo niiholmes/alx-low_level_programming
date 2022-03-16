@@ -1,1 +1,1 @@
-this repo contains scripts for c language
+contains c programs
