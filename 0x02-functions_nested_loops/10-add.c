@@ -5,7 +5,7 @@
  * @n1: the first num to be computed
  * @n2: the second num to be computed
  *
- * Retuen: integer val
+ * Return: integer val
  */
 int add(int n1, int n2)
 {
