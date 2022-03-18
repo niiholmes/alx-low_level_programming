@@ -39,4 +39,6 @@ Use the character # to print the square
 9. file 9-fizz_buzz.c is  a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 Each number or word should be separated by a space
 You are allowed to use the standard library 
-10. file
+10. file 10-prints_triangle is a function that prints a triangle, followed by a new line.
+
+
