@@ -6,4 +6,6 @@ Returns 0 otherwise
 Prototype: int _isdigit(int c);
 Returns 1 if c is a digit
 Returns 0 otherwise
-2. file
+2. file 2-mul.c is a function that multiplies two integers.
+Prototype: int mul(int a, int b);
+3. file 
