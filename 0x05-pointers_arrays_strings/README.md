@@ -3,4 +3,5 @@ contains descriptions of c files
 1. file 1-swap.c is a function that swaps the values of two integers, with the prototype: void swap_int(int *a, int *b);
 2. file 2-strlen.c a function that returns the length of a string, with prototype: int _strlen(char *s);
 3. file 3-puts.c a function that prints a string, followed by a new line, to stdout. with the prototype: void _puts(char *str);
-4. file 
+4. file 4-print_rev.c is a function that prints a string, in reverse, followed by a new line, with the prototype: void print_rev(char *s); 
+5. file
