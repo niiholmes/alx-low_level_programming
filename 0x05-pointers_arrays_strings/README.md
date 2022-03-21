@@ -6,4 +6,5 @@ contains descriptions of c files
 4. file 4-print_rev.c is a function that prints a string, in reverse, followed by a new line, with the prototype: void print_rev(char *s); 
 5. file 5-rev_string.c is a  function that reverses a string.
 with the prototype: void rev_string(char *s)
-6. file 
+6. file 6-puts2.c is a function that prints every other character of a string, starting with the first character, followed by a new line, with the prototype: void puts2(char *str); 
+7. file 
