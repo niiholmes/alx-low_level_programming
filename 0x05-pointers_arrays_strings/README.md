@@ -7,4 +7,8 @@ contains descriptions of c files
 5. file 5-rev_string.c is a  function that reverses a string.
 with the prototype: void rev_string(char *s)
 6. file 6-puts2.c is a function that prints every other character of a string, starting with the first character, followed by a new line, with the prototype: void puts2(char *str); 
-7. file 
+7. file 7-puts_half.c is  a function that prints half of a string, followed by a new line:
+Prototype: void puts_half(char *str);
+The function should print the second half of the string
+If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2 
+8. file
