@@ -28,4 +28,5 @@ Prototype: void print_chessboard(char (*a)[8]);
 Prototype: void print_diagsums(int *a, int size);
 Format: see example
 You are allowed to use the standard library
+8. file 100-set_string.c is a function that sets the value of a pointer to a char.
 9. file 
