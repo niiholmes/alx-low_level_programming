@@ -24,4 +24,8 @@ The _strstr() function finds the first occurrence of the substring needle in the
 Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.
 6. file 7-print-print_chessboard.c is  a function that prints the chessboard.
 Prototype: void print_chessboard(char (*a)[8]); 
-7- file
+7. file 8-print_diagsums.c is a function that prints the sum of the two diagonals of a square matrix of integers.
+Prototype: void print_diagsums(int *a, int size);
+Format: see example
+You are allowed to use the standard library
+9. file 
