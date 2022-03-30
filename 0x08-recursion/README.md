@@ -17,4 +17,7 @@ Prototype: int _sqrt_recursion(int n);
 If n does not have a natural square root, the function should return -1
 6. file 6-is_prime_number.c is a function that returns 1 if the input integer is a prime number, otherwise return 0.
 Prototype: int is_prime_number(int n);
-7. file 
+100. file 100-is_palindrome.c is a function that returns 1 if a string is a palindrome and 0 if not.
+Prototype: int is_palindrome(char *s);
+An empty string is a palindrome 
+101. file
