@@ -17,4 +17,9 @@ If d is NULL print nothing.
 
 3. file that Define a new type dog_t as a new name for the type struct dog.
 
-4. file
+4. file 4-new_dog.c is a function that creates a new dog.
+Prototype: dog_t *new_dog(char *name, float age, char *owner);
+You have to store a copy of name and owner
+Return NULL if the function fails
+
+5. file 5-
