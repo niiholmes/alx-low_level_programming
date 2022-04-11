@@ -22,4 +22,5 @@ Prototype: dog_t *new_dog(char *name, float age, char *owner);
 You have to store a copy of name and owner
 Return NULL if the function fails
 
-5. file 5-
+5. file 5-free_dog.c is a function that frees dogs.
+Prototype: void free_dog(dog_t *d);
