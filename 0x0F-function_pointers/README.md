@@ -15,4 +15,6 @@ int_index returns the index of the first element for which the cmp function does
 If no element matches, return -1
 If size <= 0, return -1
 
-3. file 3-
+3. file 3-main.c, 3-op_functions.c, 3-get_op_func.c, 3-calc.hare programs that performs simple operations.
+
+4. file 
