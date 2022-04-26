@@ -26,4 +26,6 @@ contains c files on singly_linked_lists
 
 101. file 101-print-_listint_safe.c is a function that prints a listint_t linked list.
 
-102. file
+102. file 102-free_listint_safe.c is a function that frees a listint_t list.
+
+103. file 
