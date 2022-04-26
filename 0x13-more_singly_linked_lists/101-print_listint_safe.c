@@ -54,3 +54,4 @@ size_t print_listint_safe(const listint_t *head)
 	if (loopnode != NULL)
 		printf("-> [%p] %d\n", (void *) head, head->n);
 	return (len);
+}
