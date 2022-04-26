@@ -28,4 +28,4 @@ contains c files on singly_linked_lists
 
 102. file 102-free_listint_safe.c is a function that frees a listint_t list.
 
-103. file 
+103. file 103-find_loop.c is a function that finds the loop in a linked list.
