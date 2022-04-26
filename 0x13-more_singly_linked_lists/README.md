@@ -4,4 +4,6 @@ contains c files on singly_linked_lists
 
 1. file 1-listint_len.c is a function that returns the number of elements in a linked listint_t list.
 
-2. file
+2. file 2-add_nodeint.c is a function that adds a new node at the beginning of a listint_t list.
+
+3. file 
