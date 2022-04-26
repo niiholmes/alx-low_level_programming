@@ -10,4 +10,6 @@ contains c files on singly_linked_lists
 
 4. file 4-free_listint.c is a function that frees a listint_t list
 
-5. file
+5. file 5-free_listint2.c is another function that frees a listint_t list.
+
+6. file 
