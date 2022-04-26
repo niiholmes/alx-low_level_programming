@@ -12,4 +12,6 @@ contains c files on singly_linked_lists
 
 5. file 5-free_listint2.c is another function that frees a listint_t list.
 
-6. file 
+6. file 6-pop_listint.c is  a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+
+7. file
