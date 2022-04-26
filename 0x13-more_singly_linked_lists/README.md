@@ -24,4 +24,6 @@ contains c files on singly_linked_lists
 
 100. file 100-reverse_listint.c is a function that reverses a listint_t linked list
 
-101. file 
+101. file 101-print-_listint_safe.c is a function that prints a listint_t linked list.
+
+102. file
