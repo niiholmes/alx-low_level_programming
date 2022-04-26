@@ -20,4 +20,6 @@ contains c files on singly_linked_lists
 
 9. file 9-insert_nodeint.c is a function that inserts a new node at a given position.
 
-10. file
+10. file 10-delete_nodeint.c is a function that deletes the node at index index of a listint_t linked list
+
+100. file 
