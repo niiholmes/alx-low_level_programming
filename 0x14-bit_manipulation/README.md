@@ -4,4 +4,6 @@ file about bit manipulation in c
 
 1. file 1-print_binary.c is a function that prints the binary representation of a number.
 
-2. file
+2. file 2-get_bit.c is a function that returns the value of a bit at a given index.
+
+3. file
