@@ -4,4 +4,6 @@ contains C programme files on file-i/o
 
 1. file 1-create_file.c is a function that creates a file.
 
-2. file
+2. file 2-append_text_to_file.c is a function that appends text at the end of a file.
+
+3. file
