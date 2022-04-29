@@ -10,4 +10,6 @@ file about bit manipulation in c
 
 4. file 4-clear_bit.c is a function that sets the value of a bit to 0 at a given index.
 
-5. file 
+5. file  5-flip_bits.c is a function that returns the number of bits you would need to flip to get from one number to another.
+
+100. file 
