@@ -12,4 +12,6 @@ file about bit manipulation in c
 
 5. file  5-flip_bits.c is a function that returns the number of bits you would need to flip to get from one number to another.
 
-100. file 
+100. file 100-get_endianess.c is a function that checks the endianness.
+
+101. file
