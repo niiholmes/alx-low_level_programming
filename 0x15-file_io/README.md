@@ -6,4 +6,6 @@ contains C programme files on file-i/o
 
 2. file 2-append_text_to_file.c is a function that appends text at the end of a file.
 
-3. file
+3. file 3-cp.c is a program that copies the content of a file to another file.
+
+100. file
